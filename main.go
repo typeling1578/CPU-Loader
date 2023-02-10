@@ -6,7 +6,7 @@ import (
 )
 
 func loop() {
-	for i := 0;; i++ {
+	for {
 	}
 }
 
